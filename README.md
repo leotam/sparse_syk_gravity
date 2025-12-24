@@ -8,7 +8,7 @@ It provides a high-performance, tensor-optimized framework for simulating Sachde
 
 ```bash
 git clone https://github.com/leotam/sparse_syk_gravity
-cd syk-research
+cd sparse_syk_gravity
 pip install -e .
 ```
 
