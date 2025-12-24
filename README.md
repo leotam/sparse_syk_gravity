@@ -1,6 +1,6 @@
 # SYK Holography Simulation Framework
 
-This repository contains the reference implementation for the paper **"Geometry of Traversable Wormholes and Quantum Chaos in Magnitude-Pruned SYK Models"**.
+This repository contains the reference implementation for the paper **["Geometry of Traversable Wormholes and Quantum Chaos in Magnitude-Pruned SYK Models"](https://doi.org/10.5281/zenodo.18037727)**.
 
 It provides a high-performance, tensor-optimized framework for simulating Sachdev-Ye-Kitaev (SYK) quantum many-body systems. The codebase focuses on holographic properties, including wormhole traversability (OTOC), spectral form factors (SFF), and chaos indicators (Gap Ratio) across different sparsity levels and geometries.
 
