@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Tam"
+    given-names: "Leonidas"
+  - family-names: "Woodside"
+    given-names: "Barrett"
+title: "Geometry of Traversable Wormholes and Quantum Chaos in Magnitude-Pruned SYK Models"
+version: 1.0.0
+doi: 10.5281/zenodo.18037727
+date-released: 2025-12-23
+url: "https://github.com/leotam/sparse_syk_gravity"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Tam"
+      given-names: "Leonidas"
+    - family-names: "Woodside"
+      given-names: "Barrett"
+  journal: "Zenodo"
+  doi: "10.5281/zenodo.18037727"
+  title: "Geometry of Traversable Wormholes and Quantum Chaos in Magnitude-Pruned SYK Models"
+  year: 2025

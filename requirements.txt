@@ -1,0 +1,5 @@
+numpy
+scipy
+matplotlib
+joblib
+cupy-cuda11x; sys_platform == 'linux'  # Optional, depends on CUDA version
